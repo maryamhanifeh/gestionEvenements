@@ -1,4 +1,3 @@
-# gestionEvenements
 # README - Gestionnaire d'Agenda Électronique
 
 ## Description
